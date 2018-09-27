@@ -15,3 +15,9 @@
 - A short write-up describing the project.
 - An open source code that pulls live information from social media and/or news feeds about road closures, road conditions, damaged roads, power outages etc. which may affect travel and accessibility.
 - The output can be either tabular (e.g. allow for search of names of closed roads) or geospatial (e.g. produce a map of real-time road closures).
+
+## Project Scope
+- We are going take data from any social media channel we can access and aggregate them into once place based on common search terms (ie: Adams Morgan, hurricane, road flooding)
+- The value add is not having to type these terms into multiple search engines. It compiles a dashboard of social media networks into one place based on common search terms.
+- Currently: gathering social media. Social Media Networks to date: twitter, reddit; working on adding the fema app, and a traffic site (here.com, tomtom, waze).
+- Next Steps: defining a function to scrape these places, define a function to aggregate.
