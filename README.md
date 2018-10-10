@@ -8,7 +8,7 @@ The goal of this project was to use social media and real-time data to identify 
 - [05 - FXN Presentation](https://github.com/Celis1/Project-5/blob/master/05_FNX_final_presentation.pptx).
 
 This project was developed by:
-- [Alex Celis], 
+- Alex Celis, 
 - [April Griffin](https://www.linkedin.com/in/april-g-a77b3812b/), 
 - [Jamila Holt](https://www.linkedin.com/in/jamilaholt/), and
 - [Jordan Nelson](https://www.linkedin.com/in/jordanhowesnelson/)
