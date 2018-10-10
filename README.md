@@ -1,11 +1,11 @@
 # Using Live Feed to Identify Road Closures
 
 The goal of this project was to use social media and real-time data to identify road closures. In this repo you will find the following:
-- 01 - Code for scraping Twitter and returning outcomes →  (link to code),
-- 02 - Code for scraping FEMA app →  (link to code),
-- 03 - Code for scraping News API → (link to code),
-- 04 - Sample output from scraping Twitter → (link to csv)
-- 05 - FXN Presentation → (link to presentation).
+- [01 - Code for scraping Twitter and returning outcomes](https://github.com/Celis1/Project-5/blob/master/01_scrape_twitter_output.ipynb),
+- [02 - Code for scraping FEMA app](https://github.com/Celis1/Project-5/blob/master/02_scrape_fema.ipynb),
+- [03 - Code for scraping News API](https://github.com/Celis1/Project-5/blob/master/03_scrape_news_api.ipynb),
+- [04 - Sample output from scraping Twitter](https://github.com/Celis1/Project-5/blob/master/04_twitter_output_data.csv)
+- [05 - FXN Presentation](https://github.com/Celis1/Project-5/blob/master/05_FNX_final_presentation.pptx).
 
 This project was developed by:
 - [Alex Celis], 
